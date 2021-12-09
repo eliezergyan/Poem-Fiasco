@@ -1,0 +1,11 @@
+$ git checkout HEAD road-not-taken.txt  
+$ git checkout -- oven-bird.txt
+$ git diff  
+$ git add road-not-taken.txt oven-bird.txt fire-and-ice.txt
+$ git reset HEAD fire-and-ice.txt 
+$ git commit -m "E Kay Commit"
+$ git add road-not-taken.txt oven-bird.txt fire-and-ice.txt 
+$ git commit -m "E Kay 2nd Commit" 
+$ git log
+$ git reset d7722af 
+$ git checkout HEAD road-not-taken.txt oven-bird.txt fire-and-ice.txt
